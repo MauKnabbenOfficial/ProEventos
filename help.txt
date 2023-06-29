@@ -1,0 +1,9 @@
+npm --version (versao rodando npm)
+nvm list (lista versoes npm instaldas)
+node -v (versao rodando node)
+ng --version (versao rodando angular)
+ng new ProEventos-App (cria um novo projeto angular)
+npm start (starta projeto angular)
+ng g n <nome> <caminho> (gera novo componente [caminho default: dentro de src/app])
+
+dotnet watch run (compila e executa aplicação dotnet com watch no terminal)
