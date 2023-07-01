@@ -7,3 +7,5 @@ npm start (starta projeto angular)
 ng g n <nome> <caminho> (gera novo componente [caminho default: dentro de src/app])
 
 dotnet watch run (compila e executa aplicação dotnet com watch no terminal)
+
+pipe: {{eventos | json}} (formata array para json)
