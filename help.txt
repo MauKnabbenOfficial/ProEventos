@@ -9,3 +9,9 @@ ng g n <nome> <caminho> (gera novo componente [caminho default: dentro de src/ap
 dotnet watch run (compila e executa aplicação dotnet com watch no terminal)
 
 pipe: {{eventos | json}} (formata array para json)
+
+dotnet new sln -n --<nome> (cria uma nova solução no diretorio atual)
+dotnet new classlib -n --<nome> (cria uma nova biblioteca classlib no diretorio atual)
+
+dotnet add <destino>.csproj reference <origem>.csproj (para referencia entre projetos)
+dotnet ef migrations add Initial -p <Origem> -s <Destino>
