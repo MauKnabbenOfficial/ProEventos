@@ -20,3 +20,10 @@ instalar tslint?
 npm install --save-dev eslint@6 eslint-plugin-standard@4 eslint-plugin-promise@4 eslint-plugin-import@2 eslint-plugin-node@11 @typescript-eslint/eslint-plugin@2 eslint-config-standard-with-typescript
 
 npm cache clean --force (limpar o cache do npm para erros de dependencia)
+
+Componentes bootstrap utilizados:
+ngx-bootstrap
+ngx-spinner
+ngx-toastr
+bootsnipp
+bootswatch -> npm install bootswatch (import "bootswatch/dist/[theme]/bootstrap.min.css";)
